@@ -2,7 +2,17 @@
 
 ![Jobs出品，必属精品](https://picsum.photos/1500/400)
 
-[toc]
+<!-- jobs-toc:start -->
+<!-- jobs-toc:source {"v":2,"token":"[toc]"} -->
+<details>
+<summary>📚 目录（点击展开 / 收起）</summary>
+
+- [一、目录结构](#repository-layout)
+- [二、配置注入脚本](#repository-script-flows)
+  - [【MacOS】💉VSCode配置注入@当前项目.command](#jobs-toc-heading-3)
+
+</details>
+<!-- jobs-toc:end -->
 
 [目录结构](#repository-layout) · [配置注入流程](#repository-script-flows)
 
@@ -22,7 +32,7 @@
 
 ## 二、<span id="repository-script-flows">配置注入脚本</span> <a href="#前言" style="font-size:17px; color:green;"><b>🔼</b></a> <a href="#🔚" style="font-size:17px; color:green;"><b>🔽</b></a>
 
-### [【MacOS】💉VSCode配置注入@当前项目.command](./【MacOS】💉VSCode配置注入@当前项目.command)
+### <span id="jobs-toc-heading-3" data-jobs-toc="v2">[【MacOS】💉VSCode配置注入@当前项目.command](./【MacOS】💉VSCode配置注入@当前项目.command)</span><!-- jobs-toc:heading-end -->
 
 > **目的：** 下载本仓指定的配置版本，并替换脚本所在目录的 `.vscode`。
 
